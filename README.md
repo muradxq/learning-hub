@@ -1,6 +1,3 @@
 # Learning-Series
 
-This repo contains the list of DL compiler courses:
-
-[1] 
-[2]
+This repository contains a list of topics to explore and learn.
