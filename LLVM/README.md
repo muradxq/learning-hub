@@ -8,5 +8,5 @@ How to build:
 
 LLVM binaries:
 - clang
-- lit
-- TCL 
+- lit 
+- llc 
