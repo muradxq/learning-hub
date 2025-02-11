@@ -5,7 +5,7 @@
 
 
 Project Structure
-
+```
 /MyProject
 │── CMakeLists.txt
 │── main.cpp
@@ -15,3 +15,4 @@ Project Structure
 │   ├── my_library.cpp
 │── cmake/
 │   ├── custom_helpers.cmake
+```
