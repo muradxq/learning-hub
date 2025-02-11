@@ -2,6 +2,10 @@
 
 Open Neural Network eXchange (ONNX) is an open standard format for representing machine learning models. 
 
+ 
+Specification: 
+ - https://github.com/onnx/onnx/blob/main/docs/IR.md
+ 
 
 #### Example: Conv-2d layer
 ```
@@ -18,6 +22,7 @@ graph (name=graph):
     - name: 'conv.weight', shape=(32, 1, 3, 3), type=float32
     - name: 'conv.bias', shape=(32,), type=float32
 ``` 
+ 
 
 References:
  - https://github.com/onnx/tutorials
