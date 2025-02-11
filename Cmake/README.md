@@ -1,6 +1,4 @@
-# Learning-Series
+# Cmake
 
-This repo contains the list of DL compiler courses:
-
-[1] 
-[2]
+- Difference Between CMakeLists.txt and .cmake Files
+  - In CMake, both CMakeLists.txt and .cmake files define build configurations and scripts, but they serve different purposes.
