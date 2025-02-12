@@ -20,4 +20,6 @@ Project Structure
 
 References:
 
-[https://cmake.org/](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+- https://cmake.org/cmake/help/book/mastering-cmake/
+
