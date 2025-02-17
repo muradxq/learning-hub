@@ -1,4 +1,7 @@
 # Learning Hub
+ 
+This repo contains the list of DL compiler courses:
 
-This repository contains a list of topics to explore and learn.
+[1] line 1 
+[2] line 2 
 - 
